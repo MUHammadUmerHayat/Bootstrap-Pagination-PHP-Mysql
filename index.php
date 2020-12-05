@@ -18,7 +18,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Learn Web Coding > Pagination in PHP and MySQL </title>
+	<title>Pagination in PHP and MySQL </title>
 	<link rel="stylesheet" type="text/css" href="../library/css/bootstrap.min.css"/>
 	<script type="text/javascript" src="../library/js/jquery-3.2.1.min.js"></script>
 </head>
